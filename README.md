@@ -1,7 +1,6 @@
 # Adesola-s-portfolio
 
 # [Project 1: Carbon Free Energy(2019-2021)](https://dataanalystsolz.github.io/Adesola-s-portfolio/)
-# [Project 1: Carbon Free Energy(2019-2021)](https://dataanalystsolz.github.io/Adesola-s-portfolio/)
 
 This project is what i did personally in order to attract potential job opportunitues in the field of data analytics in order to showcase my skills so far
 
